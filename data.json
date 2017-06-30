@@ -1,0 +1,51 @@
+[
+    {
+        "title": "Программист Python",
+        "gender": "female",
+        "age": 25,
+        "has_degree": true,
+        "city": "Москва",
+        "keywords": ["python" ,"mysql", "xml", "ios", "windows phone"],
+        "url": "https://www.superjob.ru/resume/programmist-python-20379187.html"
+    },
+
+    {
+        "title": "Программист Python",
+        "gender": "male",
+        "age": 30,
+        "has_degree": true,
+        "city": "Москва",
+        "keywords": ["python" ,"postgresql", "xml", "ios", "linux", "bash"],
+        "url": "https://www.superjob.ru/resume/programmist-python-222222222.html"
+    },
+    {
+        "title": "Программист Python",
+        "gender": "male",
+        "age": 19,
+        "has_degree": false,
+        "city": "Санкт-Петербург",
+        "keywords": ["python" ,"mysql", "html", "css"],
+        "url": "https://www.superjob.ru/resume/programmist-python-33333333.html"
+    },
+
+    {
+        "title": "Программист Java",
+        "gender": "female",
+        "age": 28,
+        "has_degree": true,
+        "city": "Москва",
+        "keywords": ["java" ,"sql", "scala", "linux", "bash"],
+        "url": "https://www.superjob.ru/resume/programmist-python-555555.html"
+    },
+    {
+        "title": "Программист Java",
+        "gender": "female",
+        "age": 20,
+        "has_degree": true,
+        "city": "Санкт-Петербург",
+        "keywords": ["java" ,"mysql", "html", "css"],
+        "url": "https://www.superjob.ru/resume/programmist-python-666666666.html"
+    }
+]
+
+    
