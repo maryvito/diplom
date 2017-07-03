@@ -6,7 +6,7 @@
         "has_degree": true,
         "city": "Москва",
         "keywords": ["python", "mysql", "xml", "ios", "windows phone"],
-        "url": "https://www.superjob.ru/resume/programmist-python-20379187.html"
+        "url": "https://www.superjob.ru/resume/programmist-python-20379187.html",
     },
 
     {
@@ -16,7 +16,7 @@
         "has_degree": true,
         "city": "Москва",
         "keywords": ["python", "postgresql", "xml", "ios", "linux", "bash"],
-        "url": "https://www.superjob.ru/resume/programmist-python-222222222.html"
+        "url": "https://www.superjob.ru/resume/programmist-python-222222222.html",
     },
     {
         "title": "Программист Python",
@@ -25,7 +25,7 @@
         "has_degree": false,
         "city": "Санкт-Петербург",
         "keywords": ["python" ,"mysql", "html", "css"],
-        "url": "https://www.superjob.ru/resume/programmist-python-33333333.html"
+        "url": "https://www.superjob.ru/resume/programmist-python-33333333.html",
     },
 
     {
@@ -35,7 +35,7 @@
         "has_degree": true,
         "city": "Москва",
         "keywords": ["java", "sql", "scala", "linux", "bash"],
-        "url": "https://www.superjob.ru/resume/programmist-python-555555.html"
+        "url": "https://www.superjob.ru/resume/programmist-python-555555.html",
     },
     {
         "title": "Программист Java",
@@ -44,7 +44,7 @@
         "has_degree": true,
         "city": "Санкт-Петербург",
         "keywords": ["java", "mysql", "html", "css"],
-        "url": "https://www.superjob.ru/resume/programmist-python-666666666.html"
+        "url": "https://www.superjob.ru/resume/programmist-python-666666666.html",
     }
 ]
 
