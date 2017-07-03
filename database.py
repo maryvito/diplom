@@ -1,15 +1,16 @@
+import simplejson
+
 from sqlalchemy import create_engine
 from sqlalchemy import Column, Integer, String, Boolean
 from sqlalchemy.orm import scoped_session, sessionmaker
 from sqlalchemy.ext.declarative import declarative_base
-import simplejson
+
 
 engine = create_engine('sqlite:///resumes.sqlite')
-
 db_session = scoped_session(sessionmaker(bind=engine))
-
 Base = declarative_base()
 Base.query = db_session.query_property()
+
 
 class Resume(Base):
     __tablename__ = 'resumes'

@@ -1,0 +1,46 @@
+{% extends "basa.html"%}
+{% block body %}
+  <body>
+	<div class="row">
+		<div class="col-md-12">
+			<table class="table">
+				<tr>
+					<th>Вакансия </th>
+					<th>Пол </th>
+					<th>Возраст</th>
+					<th>Высшее образование</th>
+					<th>Город</th>
+					<th>Навыки</th>
+					<th>URL</th>
+				</tr>
+				{% for resume in selected_resumes %}
+			    <tr>
+			    	<td style="text-align:center">{{ resume.title }}</td>
+			    	<td style="text-align:center">{{ resume.gender }}</td>
+			    	<td style="text-align:center">{{ resume.age }}</td>
+			    	{% if resume.title %}
+			    	<td style="text-align:center">Есть</td>
+			    	{% else %}
+			    	<td style="text-align:center">Нет</td>
+			    	{% endif %}    	
+			   		<td style="text-align:center">{{ resume.city }}</td>
+			   		<td style="text-align:center">
+			    	{% for keyword in resume.keywords_list %}
+			        	{{ keyword }} 
+			        {% endfor %}</td>
+			        <td  style="text-align:center"><a href="{{ resume.url }}">{{ resume.url }}</a></td>
+			    </tr>
+			    {% endfor %}
+			</table> 
+		</div>
+	</div>
+	</div>
+  </div>
+<!-- jQuery (necessary for Bootstrap's JavaScript plugins) -->
+    <script src="https://ajax.googleapis.com/ajax/libs/jquery/1.12.4/jquery.min.js"></script>
+    <!-- Include all compiled plugins (below), or include individual files as needed -->
+    <script src="/static/js/bootstrap.min.js"></script>
+  </body>
+{% endblock %}
+
+
