@@ -6,7 +6,34 @@ from bs4 import BeautifulSoup
 
 def get_html(url):
     try:
-        result = requests.get(url)
+        result = requests.get(url, cookies = {
+            'ssl_check': 'success',
+            'testcookie': '1498982926',
+            '_ym_uid': '149898292832444728',
+            'jv_enter_ts_BRDRBHmcqd': '1499002237738',
+            'jv_visits_count_BRDRBHmcqd': '1',
+            'jv_utm_BRDRBHmcqd': '',
+            '_ym_isad': '1',
+            'enter_referer': 'https%3A%2F%2Fwww.google.ru%2F',
+            'enter_url': 'www.superjob.ru%2F',
+            'enter_date': '1499502266',
+            'sjvid': 'c206ab014fd4ac65',
+            'quicksearchkey': '%D0%BF%D1%80%D0%BE%D0%B3%D1%80%D0%B0%D0%BC%D0%BC%D0%B8%D1%81%D1%82+python',
+            'jv_pages_count_BRDRBHmcqd': '13',
+            'ctown': '4',
+            'bl_iv': 'deb0d3dcf95dfdb2cc652303c26e7f1c99bf7b89',
+            '_wss': '5960f33b',
+            'ssl_check': 'success',
+            '_ga': 'GA1.2.1443249344.1498982928',
+            '_gid': 'GA1.2.1780751538.1499502256',
+            '_ws': '5958aa0f04a4fda40a0a019b19f47a314fa5ace7035960f34002943467ea958e54e5ecfaf09205ef577934683a',
+            '_ym_visorc_31419523': 'w',
+            '_ym_visorc_1605911': 'w',
+            '_sp_id.8ab7': 'f883b4534fa8231b.1498982930.10.1499525954.1499521789.bb587ea2-4b29-4d3d-ae91-2207f13e54d1',
+            '_sp_ses.8ab7': '*',
+            'uechat_34349_pages_count': '1',
+            'uechat_34349_first_time': '1499525953838',
+        })
         result.raise_for_status()
         html = result.text
         return html
@@ -19,9 +46,8 @@ def parse_resume(url):
     html_resume = get_html(url)
     bs_resume = BeautifulSoup(html_resume, 'html.parser')
     main_data_resume = bs_resume.find('div', class_ = 'ResumeMainHRNew_content')
-    print(main_data_resume)
     gender_age_degree_city = main_data_resume('div', limit = 3)[2].text.strip()
-
+    print(gender_age_degree_city.split('\n')[1])
     gender_age_degree = gender_age_degree_city.split('\n')[0].strip()
     city = gender_age_degree_city.split('\n')[1].strip()
     gender_age_degree_list = gender_age_degree.split(',')
