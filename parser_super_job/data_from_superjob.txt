@@ -1,0 +1,32 @@
+<DOCTYPE html>
+<head>
+<title>CAPTCHA</title>
+</head>
+<html>
+     <script src="https://www.google.com/recaptcha/api.js" async defer></script>
+  </head>
+  <body>
+    <form action="/sec/cv/" method="POST">
+      <div class="g-recaptcha" data-sitekey="6Lfw-woUAAAAAEO4vWkns4tHKARBYDhJxcCF4G2z"></div>
+      <br/>
+      <input name="bs" type="hidden" value="f07f311aacac57c039b7ca887e0068ad0cd7aceddff1f7783cd8fefc003207f4864395d6163aaeb2081e38ba8680ff68fefa01db">
+      <input type="submit" value="Продолжить">
+    </form>
+  </body>
+</html>
+<DOCTYPE html>
+<head>
+<title>CAPTCHA</title>
+</head>
+<html>
+     <script src="https://www.google.com/recaptcha/api.js" async defer></script>
+  </head>
+  <body>
+    <form action="/sec/cv/" method="POST">
+      <div class="g-recaptcha" data-sitekey="6Lfw-woUAAAAAEO4vWkns4tHKARBYDhJxcCF4G2z"></div>
+      <br/>
+      <input name="bs" type="hidden" value="973e2a59991503e7dbc0543e2935c236b7b40bdc86bedbf0b4c3a6d25ccd4ecdda493f54bc2d54199caaa14da69ed7d1fb711d49">
+      <input type="submit" value="Продолжить">
+    </form>
+  </body>
+</html>
