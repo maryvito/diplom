@@ -36,6 +36,7 @@ def get_html(url):
         })
         result.raise_for_status()
         html = result.text
+        print(url)
         return html
     except requests.exceptions.RequestException as e:
         print(e)
@@ -45,19 +46,22 @@ def get_html(url):
 def parse_resume(url):
     html_resume = get_html(url)
     bs_resume = BeautifulSoup(html_resume, 'html.parser')
-    main_data_resume = bs_resume.find('div', class_ = 'ResumeMainHRNew_content')
-    gender_age_degree_city = main_data_resume('div', limit = 3)[2].text.strip()
-    print(gender_age_degree_city.split('\n')[1])
-    gender_age_degree = gender_age_degree_city.split('\n')[0].strip()
-    city = gender_age_degree_city.split('\n')[1].strip()
+    main_data_resume = bs_resume.find('div', class_ = 'h_font_weight_medium')
+    gender_age_degree_city = main_data_resume.next.next
+    print(gender_age_degree_city)
+    gender_age_degree_city_list = gender_age_degree_city.split('\n')
+    gender_age_degree = gender_age_degree_city_list[0].strip()
+    # print(gender_age_degree_city_list)
+    # print(gender_age_degree)
+    city = gender_age_degree_city_list[1].strip()
     gender_age_degree_list = gender_age_degree.split(',')
    
-    if gender_age_degree[2] == 'высшее образование':
+    if gender_age_degree_list[2] == 'высшее образование':
         has_degree = 'true'
     else:
         has_degree = 'false' 
     
-    gender = gender_age_degree[0]
+    gender = gender_age_degree_list[0]
     if gender == 'Жен.':
         gender = 'female'
     else:
@@ -123,5 +127,5 @@ def get_resume_from_superjob_and_parse_it():
 # h = get_html('https://www.superjob.ru/resume/search_resume.html?sbmit=1&show_refused=0&t%5B0%5D=4&order_by%5Brank%5D=desc&keywords%5B0%5D%5Bkeys%5D=%D0%9F%D1%80%D0%BE%D0%B3%D1%80%D0%B0%D0%BC%D0%BC%D0%B8%D1%81%D1%82+python&page=1')
 # parse_html(h)
 if __name__ == '__main__':
-    # parse_resume(url='https://www.superjob.ru/resume/programmist-python-20379183.html')
-    get_resume_from_superjob_and_parse_it()
+    parse_resume(url='https://www.superjob.ru/resume/programmist-python-35665045.html')
+    # get_resume_from_superjob_and_parse_it()

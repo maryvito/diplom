@@ -26,7 +26,7 @@
     <meta name="verify-admitad" content="6fa953a8f9"/>
     <meta name="viewport" content="width=1008"/>
     <meta name="format-detection" content="telephone=no">
-	<meta http-equiv="Expires" content="Thu, 13 Jul 2017 18:03:52 GMT">
+	<meta http-equiv="Expires" content="Fri, 14 Jul 2017 10:15:15 GMT">
 	<meta http-equiv="Content-Type" content="text/html; charset=utf-8">
 	<meta http-equiv="Cache-Control" content="no-cache">
 	<meta http-equiv="Pragma" content="no-cache">
@@ -51,7 +51,7 @@
     <script type="text/javascript">
 window.RavenConfig = {
     url: 'https://1a552931599744f984cdcfc95605787d@sentry.superjob.ru/16',
-    release: '5a0089fb84eaecd73c37ff2557e28b6414d0eb4a',
+    release: '9e7d7c47972cbe14707853bdaf8f7aefa921e3b2',
     user: {
         type: 'anon_user',
         id: ''
@@ -76,7 +76,7 @@ window.RavenConfig = {
 				IMG_PATH: 'https://img.superjob.ru',
 				PUBLIC_CONTENT_PATH: 'https://public.superjob.ru',
 				ST_PATH: 'https://st.superjob.ru',
-                RELEASE_HASH: '5a0089fb84eaecd73c37ff2557e28b6414d0eb4a',
+                RELEASE_HASH: '9e7d7c47972cbe14707853bdaf8f7aefa921e3b2',
 			};
 
 			if (typeof angular != "undefined") {
@@ -170,7 +170,7 @@ window.RavenConfig = {
         </script>
 <script type="text/javascript" src="https://www.superjob.ru/cdn/min/file/sj/js/timing.js?hash=519290929"></script>
 <script type="text/javascript">var cookieDomain = 'superjob.ru';</script>
-<script type="text/javascript">var globalDate = new Date(2017,6,13,21,3);</script>
+<script type="text/javascript">var globalDate = new Date(2017,6,14,13,15);</script>
 <script type="text/javascript" src="https://www.superjob.ru/cdn/min/group/core/core.js?hash=1410528983"></script>
 <script type="text/javascript" src="https://www.superjob.ru/cdn/min/group/core/core_plugins.js?hash=780475609"></script>
 <script type="text/javascript" src="https://www.superjob.ru/cdn/min/file/sj/js/vendor/angular/angular-ui-router.min.js?hash=1218443862"></script>
@@ -178,12 +178,12 @@ window.RavenConfig = {
 <script type="text/javascript" src="https://www.superjob.ru/cdn/min/file/sj/js/angular/modules/analytics//module.js?hash=792225329"></script>
 <script type="text/javascript" src="https://www.superjob.ru/cdn/min/file/sj/js/angular/modules/analytics/services/gtm.js?hash=3188054023"></script>
 <script type="text/javascript" src="https://www.superjob.ru/cdn/min/file/sj/js/angular/modules/utils//module.js?hash=1905043911"></script>
-<script type="text/javascript" src="https://www.superjob.ru/cdn/min/file/sj/js/angular/modules/utils/services/sjImgUrl.js?hash=3789283847"></script>
 <script type="text/javascript" src="https://www.superjob.ru/cdn/min/file/sj/js/angular/modules/utils/services/sjGlobalConfig.js?hash=2074097730"></script>
+<script type="text/javascript" src="https://www.superjob.ru/cdn/min/file/sj/js/angular/modules/utils/services/sjImgUrl.js?hash=3789283847"></script>
 <script type="text/javascript" src="https://www.superjob.ru/cdn/min/file/sj/js/angular/modules/utils/services/sjTemplateUrl.js?hash=536074965"></script>
-<script type="text/javascript" src="https://www.superjob.ru/cdn/min/file/sj/js/angular/modules/utils/config/sjHrefSanitizationConfig.js?hash=1234942432"></script>
 <script type="text/javascript" src="https://www.superjob.ru/cdn/min/file/sj/js/angular/modules/utils/config/sjHttpConfig.js?hash=1340646005"></script>
 <script type="text/javascript" src="https://www.superjob.ru/cdn/min/file/sj/js/angular/modules/utils/config/sjUtilsConfig.js?hash=4198823572"></script>
+<script type="text/javascript" src="https://www.superjob.ru/cdn/min/file/sj/js/angular/modules/utils/config/sjHrefSanitizationConfig.js?hash=1234942432"></script>
 <script type="text/javascript" src="https://www.superjob.ru/cdn/min/group/sj-tools/plugins.js?hash=2499828756"></script>
 <script type="text/javascript" src="https://www.superjob.ru/cdn/min/file/sj/js/sentry/3.8.1/angular-raven.min.js?hash=1893689497"></script>
 <script type="text/javascript" src="https://www.superjob.ru/cdn/min/file/sj/js/sentry/3.8.1/install-angular-plugin.js?hash=2314905003"></script>
@@ -192,24 +192,24 @@ window.RavenConfig = {
 <script type="text/javascript" src="https://www.superjob.ru/cdn/min/file/sj/js/hr/modules/hr_common//module.js?hash=1107406220"></script>
 <script type="text/javascript" src="https://www.superjob.ru/cdn/min/file/sj/js/hr/modules/hr_common/filters/NumberFormatFilter.js?hash=932062216"></script>
 <script type="text/javascript" src="https://www.superjob.ru/cdn/min/file/sj/js/hr/modules/hr_common/directives/DeferClick.js?hash=1580117684"></script>
-<script type="text/javascript" src="https://www.superjob.ru/cdn/min/file/sj/js/hr/modules/hr_common/directives/CallMeBlock.js?hash=571693585"></script>
 <script type="text/javascript" src="https://www.superjob.ru/cdn/min/file/sj/js/hr/modules/hr_common/directives/ButtonLoader.js?hash=1212927350"></script>
+<script type="text/javascript" src="https://www.superjob.ru/cdn/min/file/sj/js/hr/modules/hr_common/directives/CallMeBlock.js?hash=571693585"></script>
 <script type="text/javascript" src="https://www.superjob.ru/cdn/min/file/sj/js/hr/modules/hr_common/directives/SetFocusWhen.js?hash=3064665901"></script>
-<script type="text/javascript" src="https://www.superjob.ru/cdn/min/file/sj/js/hr/modules/hr_common/services/FeedbackHelper.js?hash=1542714417"></script>
+<script type="text/javascript" src="https://www.superjob.ru/cdn/min/file/sj/js/hr/modules/hr_common/services/GeoHelper.js?hash=833703752"></script>
 <script type="text/javascript" src="https://www.superjob.ru/cdn/min/file/sj/js/hr/modules/hr_common/services/HrRegistry.js?hash=1719925708"></script>
 <script type="text/javascript" src="https://www.superjob.ru/cdn/min/file/sj/js/hr/modules/hr_common/services/GeoType.js?hash=533193389"></script>
+<script type="text/javascript" src="https://www.superjob.ru/cdn/min/file/sj/js/hr/modules/hr_common/services/FeedbackHelper.js?hash=1542714417"></script>
 <script type="text/javascript" src="https://www.superjob.ru/cdn/min/file/sj/js/hr/modules/hr_common/services/HrMetaStorage.js?hash=1545590411"></script>
-<script type="text/javascript" src="https://www.superjob.ru/cdn/min/file/sj/js/hr/modules/hr_common/services/GeoHelper.js?hash=833703752"></script>
 <script type="text/javascript" src="https://www.superjob.ru/cdn/min/file/sj/js/hr/modules/hr_helper//module.js?hash=318713225"></script>
-<script type="text/javascript" src="https://www.superjob.ru/cdn/min/file/sj/js/hr/modules/hr_helper/services/PhoneHelper.js?hash=365328866"></script>
 <script type="text/javascript" src="https://www.superjob.ru/cdn/min/file/sj/js/hr/modules/hr_helper/services/StrHelper.js?hash=3110383679"></script>
+<script type="text/javascript" src="https://www.superjob.ru/cdn/min/file/sj/js/hr/modules/hr_helper/services/PhoneHelper.js?hash=365328866"></script>
 <script type="text/javascript" src="https://www.superjob.ru/cdn/min/file/sj/js/hr/modules/flash_msg.js?hash=3128393204"></script>
 <script type="text/javascript" src="https://www.superjob.ru/cdn/min/group/angular_hr_client/core.js?hash=2336875237"></script>
 <script type="text/javascript" src="https://www.superjob.ru/cdn/min/group/angular_hr_client/core_plugins.js?hash=196019848"></script>
 <script type="text/javascript" src="https://www.superjob.ru/cdn/min/file/sj/yii/protected/views/servicepaymentdialog/ServicePaymentDialog.html.blitz.js?hash=106508380"></script>
 <script type="text/javascript" src="https://www.superjob.ru/cdn/min/file/sj/js/vendor/jquery.lightbox.js?hash=2278059727"></script>
 <script type="text/javascript" src="https://www.superjob.ru/cdn/min/file/sj/js/resume_contacts_toggle.js?hash=3536977416"></script>
-<script type="text/javascript" src="https://www.superjob.ru/cdn/min/file/sj/js/angular/directives/templates/templates.js?hash=1484168527"></script>
+<script type="text/javascript" src="https://www.superjob.ru/cdn/min/file/sj/js/angular/directives/templates/templates.js?hash=65859477"></script>
 <script type="text/javascript" src="https://www.superjob.ru/cdn/min/file/sj/js/angular/directives/resume-search-list-element-toolbar/resume-search-element-item-toolbar-directive.js?hash=467678829"></script>
 <script type="text/javascript" src="https://www.superjob.ru/cdn/min/file/sj/js/sj-app/utils/more-cities.js?hash=2761209446"></script>
 <script type="text/javascript" src="https://www.superjob.ru/cdn/min/file/sj/js/resume/resume-list-element-service.js?hash=3598271019"></script>
@@ -247,14 +247,14 @@ window.RavenConfig = {
 <script type="text/javascript" src="https://www.superjob.ru/cdn/min/file/sj/js/angular/modules/sj_api/module.js?hash=112953459"></script>
 <script type="text/javascript" src="https://www.superjob.ru/cdn/min/file/sj/js/angular/modules/sj_api/config/api.js?hash=3117987141"></script>
 <script type="text/javascript" src="https://www.superjob.ru/cdn/min/file/sj/js/angular/modules/sj_api/services/town.js?hash=2871232252"></script>
+<script type="text/javascript" src="https://www.superjob.ru/cdn/min/file/sj/js/angular/modules/sj_api/services/cache.js?hash=4275468360"></script>
 <script type="text/javascript" src="https://www.superjob.ru/cdn/min/file/sj/js/angular/modules/sj_api/services/branch.js?hash=1103595113"></script>
 <script type="text/javascript" src="https://www.superjob.ru/cdn/min/file/sj/js/angular/modules/sj_api/services/api.js?hash=2860776364"></script>
-<script type="text/javascript" src="https://www.superjob.ru/cdn/min/file/sj/js/angular/modules/sj_api/services/cache.js?hash=4275468360"></script>
 <script type="text/javascript" src="https://www.superjob.ru/cdn/min/file/sj/js/angular/modules/sj_api/services/professionSuggest.js?hash=1953863080"></script>
 <script type="text/javascript" src="https://www.superjob.ru/cdn/min/file/sj/js/angular/modules/sj_branch//module.js?hash=1693021392"></script>
 <script type="text/javascript" src="https://www.superjob.ru/cdn/min/file/sj/js/angular/modules/sj_branch/run/sjBranchRun.js?hash=1753952305"></script>
-<script type="text/javascript" src="https://www.superjob.ru/cdn/min/file/sj/js/angular/modules/sj_branch/controllers/sjBranchController.js?hash=325713155"></script>
 <script type="text/javascript" src="https://www.superjob.ru/cdn/min/file/sj/js/angular/modules/sj_branch/directives/sjBranchDirectives.js?hash=2875909037"></script>
+<script type="text/javascript" src="https://www.superjob.ru/cdn/min/file/sj/js/angular/modules/sj_branch/controllers/sjBranchController.js?hash=325713155"></script>
 <script type="text/javascript" src="https://www.superjob.ru/cdn/min/file/sj/js/jquery.velocity.min.js?hash=2489050115"></script>
 <script type="text/javascript" src="https://www.superjob.ru/cdn/min/file/sj/js/jquery.multiform.js?hash=1667558746"></script>
 <script type="text/javascript" src="https://www.superjob.ru/cdn/min/file/sj/js/toggle_plus_minus.js?hash=1205738530"></script>
@@ -369,7 +369,7 @@ j=d.createElement(s),dl=l!='dataLayer'?'&l='+l:'';j.async=true;j.src=
 
 
 <script type="text/javascript">
-dataLayer.push({"event":"init","YANDEX_METRIKA_ID":1605911,"GA-CODE":"UA-964811-1","additionalYamID":31419523,"hrUser":0,"regUser":0,"sjFeatures":{"fetch_profession_synonym":"__skip__","search_resume_motivator_devit_1693":"resume_list"},"sjSearchId":null,"resourceType":"desktop_version","idCriteo":"0"});
+dataLayer.push({"event":"init","YANDEX_METRIKA_ID":1605911,"GA-CODE":"UA-964811-1","additionalYamID":31419523,"hrUser":0,"regUser":0,"sjFeatures":{"fetch_profession_synonym":"__skip__","search_resume_motivator_devit_1693":"resume_list"},"sjSearchId":null,"resourceType":"desktop_version","idCriteo":"0"});
 </script>
 
 <div style="width: 1px; height: 1px; overflow: hidden;position: absolute;"></div>
@@ -639,9 +639,9 @@ dataLayer.push({"event":"init","YANDEX_METRIKA_ID":1605911,"GA-CODE":"UA-964811-
                 <div class="sj_justify">
                     <div class="">
                         <div>
-                                <span>Найдено 1 936 резюме</span>
+                                <span>Найдено 1 934 резюме</span>
                                     <br>После <a target="_blank" href="https://www.superjob.ru/registration.html">регистрации</a>
-                                    будет доступно 4 816 резюме
+                                    будет доступно 4 814 резюме
                         </div>
                     </div>
                     <div class="">
@@ -700,7 +700,7 @@ dataLayer.push({"event":"init","YANDEX_METRIKA_ID":1605911,"GA-CODE":"UA-964811-
         <!-- История -->
         <div class="sj_block m_b_2 ResumeListElementNew_history">
                 <div class="h_color_gray">
-                    <span class="sj_text m_small">Обновлено в 19:10</span>
+                    <span class="sj_text m_small">Обновлено в 11:23</span>
                 </div>
             </div>
 
@@ -946,7 +946,7 @@ dataLayer.push({"event":"init","YANDEX_METRIKA_ID":1605911,"GA-CODE":"UA-964811-
         <!-- История -->
         <div class="sj_block m_b_2 ResumeListElementNew_history">
                 <div class="h_color_gray">
-                    <span class="sj_text m_small">Обновлено в 18:20</span>
+                    <span class="sj_text m_small">Обновлено 13 июля</span>
                 </div>
             </div>
 
@@ -1190,7 +1190,7 @@ dataLayer.push({"event":"init","YANDEX_METRIKA_ID":1605911,"GA-CODE":"UA-964811-
         <!-- История -->
         <div class="sj_block m_b_2 ResumeListElementNew_history">
                 <div class="h_color_gray">
-                    <span class="sj_text m_small">Обновлено в 15:33</span>
+                    <span class="sj_text m_small">Обновлено 13 июля</span>
                 </div>
             </div>
 
@@ -1384,7 +1384,7 @@ dataLayer.push({"event":"init","YANDEX_METRIKA_ID":1605911,"GA-CODE":"UA-964811-
         <!-- История -->
         <div class="sj_block m_b_2 ResumeListElementNew_history">
                 <div class="h_color_gray">
-                    <span class="sj_text m_small">Обновлено в 14:41</span>
+                    <span class="sj_text m_small">Обновлено 13 июля</span>
                 </div>
             </div>
 
@@ -1641,7 +1641,7 @@ dataLayer.push({"event":"init","YANDEX_METRIKA_ID":1605911,"GA-CODE":"UA-964811-
         <!-- История -->
         <div class="sj_block m_b_2 ResumeListElementNew_history">
                 <div class="h_color_gray">
-                    <span class="sj_text m_small">Обновлено в 12:53</span>
+                    <span class="sj_text m_small">Обновлено 13 июля</span>
                 </div>
             </div>
 
@@ -1875,7 +1875,7 @@ dataLayer.push({"event":"init","YANDEX_METRIKA_ID":1605911,"GA-CODE":"UA-964811-
         <!-- История -->
         <div class="sj_block m_b_2 ResumeListElementNew_history">
                 <div class="h_color_gray">
-                    <span class="sj_text m_small">Обновлено в 02:30</span>
+                    <span class="sj_text m_small">Обновлено 13 июля</span>
                 </div>
             </div>
 
@@ -6485,7 +6485,7 @@ GRE</div>
                                             href="https://www.superjob.ru/resume/search_resume.html?sbmit=1&amp;show_refused=0&amp;t%5B0%5D=4&amp;order_by%5Brank%5D=desc&amp;keywords%5B0%5D%5Bkeys%5D=python&amp;period=1&amp;detail_search=1"
                                             rel="nofollow"
                                             title="24 часа"
-                                        >24 часа</a><span class="sj_block m_l_1 h_color_gray">62</span>
+                                        >24 часа</a><span class="sj_block m_l_1 h_color_gray">61</span>
                                     </div>
 
                                     <div class="sj_block m_t_1 h_white_space_nowrap">
@@ -6494,7 +6494,7 @@ GRE</div>
                                             href="https://www.superjob.ru/resume/search_resume.html?sbmit=1&amp;show_refused=0&amp;t%5B0%5D=4&amp;order_by%5Brank%5D=desc&amp;keywords%5B0%5D%5Bkeys%5D=python&amp;period=3&amp;detail_search=1"
                                             rel="nofollow"
                                             title="3 дня"
-                                        >3 дня</a><span class="sj_block m_l_1 h_color_gray">125</span>
+                                        >3 дня</a><span class="sj_block m_l_1 h_color_gray">124</span>
                                     </div>
 
                                     <div class="sj_block m_t_1 h_white_space_nowrap">
@@ -6503,7 +6503,7 @@ GRE</div>
                                             href="https://www.superjob.ru/resume/search_resume.html?sbmit=1&amp;show_refused=0&amp;t%5B0%5D=4&amp;order_by%5Brank%5D=desc&amp;keywords%5B0%5D%5Bkeys%5D=python&amp;period=7&amp;detail_search=1"
                                             rel="nofollow"
                                             title="Неделю"
-                                        >Неделю</a><span class="sj_block m_l_1 h_color_gray">173</span>
+                                        >Неделю</a><span class="sj_block m_l_1 h_color_gray">174</span>
                                     </div>
 
                                     <div class="sj_block m_t_1 h_white_space_nowrap">
@@ -6512,7 +6512,7 @@ GRE</div>
                                             href="https://www.superjob.ru/resume/search_resume.html?sbmit=1&amp;show_refused=0&amp;t%5B0%5D=4&amp;order_by%5Brank%5D=desc&amp;keywords%5B0%5D%5Bkeys%5D=python&amp;period=30&amp;detail_search=1"
                                             rel="nofollow"
                                             title="Месяц"
-                                        >Месяц</a><span class="sj_block m_l_1 h_color_gray">338</span>
+                                        >Месяц</a><span class="sj_block m_l_1 h_color_gray">337</span>
                                     </div>
                     </div>
                     <div class="sj_block m_b_1">Возраст</div>
@@ -6524,7 +6524,7 @@ GRE</div>
                                             href="https://www.superjob.ru/resume/search_resume.html?sbmit=1&amp;show_refused=0&amp;t%5B0%5D=4&amp;order_by%5Brank%5D=desc&amp;keywords%5B0%5D%5Bkeys%5D=python&amp;old2=20&amp;detail_search=1"
                                             rel="nofollow"
                                             title="до 20 лет"
-                                        >до 20 лет</a><span class="sj_block m_l_1 h_color_gray">145</span>
+                                        >до 20 лет</a><span class="sj_block m_l_1 h_color_gray">146</span>
                                     </div>
 
                                     <div class="sj_block m_t_1 h_white_space_nowrap">
@@ -6533,7 +6533,7 @@ GRE</div>
                                             href="https://www.superjob.ru/resume/search_resume.html?sbmit=1&amp;show_refused=0&amp;t%5B0%5D=4&amp;order_by%5Brank%5D=desc&amp;keywords%5B0%5D%5Bkeys%5D=python&amp;old1=20&amp;old2=25&amp;detail_search=1"
                                             rel="nofollow"
                                             title="от 20 до 25 лет"
-                                        >от 20 до 25 лет</a><span class="sj_block m_l_1 h_color_gray">1 145</span>
+                                        >от 20 до 25 лет</a><span class="sj_block m_l_1 h_color_gray">1 144</span>
                                     </div>
 
                                     <div class="sj_block m_t_1 h_white_space_nowrap">
@@ -6542,7 +6542,7 @@ GRE</div>
                                             href="https://www.superjob.ru/resume/search_resume.html?sbmit=1&amp;show_refused=0&amp;t%5B0%5D=4&amp;order_by%5Brank%5D=desc&amp;keywords%5B0%5D%5Bkeys%5D=python&amp;old1=25&amp;old2=30&amp;detail_search=1"
                                             rel="nofollow"
                                             title="от 25 до 30 лет"
-                                        >от 25 до 30 лет</a><span class="sj_block m_l_1 h_color_gray">1 777</span>
+                                        >от 25 до 30 лет</a><span class="sj_block m_l_1 h_color_gray">1 776</span>
                                     </div>
 
                                     <div class="sj_block m_t_1 h_white_space_nowrap">
@@ -6551,7 +6551,7 @@ GRE</div>
                                             href="https://www.superjob.ru/resume/search_resume.html?sbmit=1&amp;show_refused=0&amp;t%5B0%5D=4&amp;order_by%5Brank%5D=desc&amp;keywords%5B0%5D%5Bkeys%5D=python&amp;old1=30&amp;old2=35&amp;detail_search=1"
                                             rel="nofollow"
                                             title="от 30 до 35 лет"
-                                        >от 30 до 35 лет</a><span class="sj_block m_l_1 h_color_gray">1 358</span>
+                                        >от 30 до 35 лет</a><span class="sj_block m_l_1 h_color_gray">1 357</span>
                                     </div>
 
                                     <div class="sj_block m_t_1 h_white_space_nowrap">
@@ -6569,7 +6569,7 @@ GRE</div>
                                             href="https://www.superjob.ru/resume/search_resume.html?sbmit=1&amp;show_refused=0&amp;t%5B0%5D=4&amp;order_by%5Brank%5D=desc&amp;keywords%5B0%5D%5Bkeys%5D=python&amp;old1=40&amp;detail_search=1"
                                             rel="nofollow"
                                             title="от 40 лет"
-                                        >от 40 лет</a><span class="sj_block m_l_1 h_color_gray">596</span>
+                                        >от 40 лет</a><span class="sj_block m_l_1 h_color_gray">597</span>
                                     </div>
                     </div>
                     <div class="sj_block m_b_1">Уровень дохода</div>
@@ -6581,7 +6581,7 @@ GRE</div>
                                             href="https://www.superjob.ru/resume/search_resume.html?sbmit=1&amp;show_refused=0&amp;t%5B0%5D=4&amp;order_by%5Brank%5D=desc&amp;keywords%5B0%5D%5Bkeys%5D=python&amp;payment_agreement=1&amp;detail_search=1"
                                             rel="nofollow"
                                             title="По договоренности"
-                                        >По договоренности</a><span class="sj_block m_l_1 h_color_gray">2 450</span>
+                                        >По договоренности</a><span class="sj_block m_l_1 h_color_gray">2 448</span>
                                     </div>
 
                                     <div class="sj_block m_t_1 h_white_space_nowrap">
@@ -6617,7 +6617,7 @@ GRE</div>
                                             href="https://www.superjob.ru/resume/search_resume.html?sbmit=1&amp;show_refused=0&amp;t%5B0%5D=4&amp;order_by%5Brank%5D=desc&amp;keywords%5B0%5D%5Bkeys%5D=python&amp;paymentfrom=70000&amp;paymentto=90000&amp;payment_no_agreement=1&amp;detail_search=1"
                                             rel="nofollow"
                                             title="от 70 000 до 90 000 руб."
-                                        >от 70 000 до 90 000 руб.</a><span class="sj_block m_l_1 h_color_gray">524</span>
+                                        >от 70 000 до 90 000 руб.</a><span class="sj_block m_l_1 h_color_gray">526</span>
                                     </div>
 
                                     <div class="sj_block m_t_1 h_white_space_nowrap">
@@ -6626,7 +6626,7 @@ GRE</div>
                                             href="https://www.superjob.ru/resume/search_resume.html?sbmit=1&amp;show_refused=0&amp;t%5B0%5D=4&amp;order_by%5Brank%5D=desc&amp;keywords%5B0%5D%5Bkeys%5D=python&amp;paymentfrom=90000&amp;paymentto=110000&amp;payment_no_agreement=1&amp;detail_search=1"
                                             rel="nofollow"
                                             title="от 90 000 до 110 000 руб."
-                                        >от 90 000 до 110 000 руб.</a><span class="sj_block m_l_1 h_color_gray">345</span>
+                                        >от 90 000 до 110 000 руб.</a><span class="sj_block m_l_1 h_color_gray">343</span>
                                     </div>
 
                                     <div class="sj_block m_t_1 h_white_space_nowrap">
@@ -6928,7 +6928,7 @@ GRE</div>
                                             href="https://www.superjob.ru/resume/search_resume.html?sbmit=1&amp;show_refused=0&amp;t%5B0%5D=4&amp;order_by%5Brank%5D=desc&amp;keywords%5B0%5D%5Bkeys%5D=python&amp;citizenship%5B0%5D=1&amp;detail_search=1"
                                             rel="nofollow"
                                             title="Россия"
-                                        >Россия</a><span class="sj_block m_l_1 h_color_gray">1 917</span>
+                                        >Россия</a><span class="sj_block m_l_1 h_color_gray">1 916</span>
                                     </div>
 
                                     <div class="sj_block m_t_1 h_white_space_nowrap">
@@ -7047,7 +7047,7 @@ GRE</div>
                                             href="https://www.superjob.ru/resume/search_resume.html?sbmit=1&amp;show_refused=0&amp;t%5B0%5D=4&amp;order_by%5Brank%5D=desc&amp;keywords%5B0%5D%5Bkeys%5D=python&amp;pol=2&amp;detail_search=1"
                                             rel="nofollow"
                                             title="Мужской"
-                                        >Мужской</a><span class="sj_block m_l_1 h_color_gray">4 286</span>
+                                        >Мужской</a><span class="sj_block m_l_1 h_color_gray">4 287</span>
                                     </div>
 
                                     <div class="sj_block m_t_1 h_white_space_nowrap">
@@ -7056,7 +7056,7 @@ GRE</div>
                                             href="https://www.superjob.ru/resume/search_resume.html?sbmit=1&amp;show_refused=0&amp;t%5B0%5D=4&amp;order_by%5Brank%5D=desc&amp;keywords%5B0%5D%5Bkeys%5D=python&amp;pol=3&amp;detail_search=1"
                                             rel="nofollow"
                                             title="Женский"
-                                        >Женский</a><span class="sj_block m_l_1 h_color_gray">530</span>
+                                        >Женский</a><span class="sj_block m_l_1 h_color_gray">527</span>
                                     </div>
                     </div>
                     <div class="sj_block m_b_1">Тип занятости</div>
@@ -7077,7 +7077,7 @@ GRE</div>
                                             href="https://www.superjob.ru/resume/search_resume.html?sbmit=1&amp;show_refused=0&amp;t%5B0%5D=4&amp;order_by%5Brank%5D=desc&amp;keywords%5B0%5D%5Bkeys%5D=python&amp;strict_type_of_work=1&amp;type_of_work=6&amp;detail_search=1"
                                             rel="nofollow"
                                             title="Полный рабочий день"
-                                        >Полный рабочий день</a><span class="sj_block m_l_1 h_color_gray">1 934</span>
+                                        >Полный рабочий день</a><span class="sj_block m_l_1 h_color_gray">1 935</span>
                                     </div>
 
                                     <div class="sj_block m_t_1 h_white_space_nowrap">
@@ -7086,7 +7086,7 @@ GRE</div>
                                             href="https://www.superjob.ru/resume/search_resume.html?sbmit=1&amp;show_refused=0&amp;t%5B0%5D=4&amp;order_by%5Brank%5D=desc&amp;keywords%5B0%5D%5Bkeys%5D=python&amp;strict_type_of_work=1&amp;type_of_work=13&amp;detail_search=1"
                                             rel="nofollow"
                                             title="Частичная занятость"
-                                        >Частичная занятость</a><span class="sj_block m_l_1 h_color_gray">178</span>
+                                        >Частичная занятость</a><span class="sj_block m_l_1 h_color_gray">176</span>
                                     </div>
 
                                     <div class="sj_block m_t_1 h_white_space_nowrap">
@@ -7095,7 +7095,7 @@ GRE</div>
                                             href="https://www.superjob.ru/resume/search_resume.html?sbmit=1&amp;show_refused=0&amp;t%5B0%5D=4&amp;order_by%5Brank%5D=desc&amp;keywords%5B0%5D%5Bkeys%5D=python&amp;strict_type_of_work=1&amp;type_of_work=10&amp;detail_search=1"
                                             rel="nofollow"
                                             title="Неполный рабочий день"
-                                        >Неполный рабочий день</a><span class="sj_block m_l_1 h_color_gray">172</span>
+                                        >Неполный рабочий день</a><span class="sj_block m_l_1 h_color_gray">171</span>
                                     </div>
 
                                     <div class="sj_block m_t_1 h_white_space_nowrap">
@@ -7215,7 +7215,7 @@ GRE</div>
                                             href="https://www.superjob.ru/resume/search_resume.html?sbmit=1&amp;show_refused=0&amp;t%5B0%5D=4&amp;order_by%5Brank%5D=desc&amp;keywords%5B0%5D%5Bkeys%5D=python&amp;id_metro_line=9&amp;detail_search=1"
                                             rel="nofollow"
                                             title="Серпуховско-Тимирязевская"
-                                        >Серпуховско-Тимирязевская</a><span class="sj_block m_l_1 h_color_gray">369</span>
+                                        >Серпуховско-Тимирязевская</a><span class="sj_block m_l_1 h_color_gray">370</span>
                                     </div>
                             <div class="sj_block m_t_1">
                                 <a
@@ -7262,7 +7262,7 @@ GRE</div>
                                             href="https://www.superjob.ru/resume/search_resume.html?sbmit=1&amp;show_refused=0&amp;t%5B0%5D=4&amp;order_by%5Brank%5D=desc&amp;keywords%5B0%5D%5Bkeys%5D=python&amp;strict_education=1&amp;education=2&amp;detail_search=1"
                                             rel="nofollow"
                                             title="Высшее"
-                                        >Высшее</a><span class="sj_block m_l_1 h_color_gray">3 692</span>
+                                        >Высшее</a><span class="sj_block m_l_1 h_color_gray">3 689</span>
                                     </div>
 
                                     <div class="sj_block m_t_1 h_white_space_nowrap">
@@ -7280,7 +7280,7 @@ GRE</div>
                                             href="https://www.superjob.ru/resume/search_resume.html?sbmit=1&amp;show_refused=0&amp;t%5B0%5D=4&amp;order_by%5Brank%5D=desc&amp;keywords%5B0%5D%5Bkeys%5D=python&amp;strict_education=1&amp;education=4&amp;detail_search=1"
                                             rel="nofollow"
                                             title="Среднее специальное"
-                                        >Среднее специальное</a><span class="sj_block m_l_1 h_color_gray">140</span>
+                                        >Среднее специальное</a><span class="sj_block m_l_1 h_color_gray">141</span>
                                     </div>
 
                                     <div class="sj_block m_t_1 h_white_space_nowrap">
@@ -7319,7 +7319,7 @@ GRE</div>
                                             href="https://www.superjob.ru/resume/search_resume.html?sbmit=1&amp;show_refused=0&amp;t%5B0%5D=4&amp;order_by%5Brank%5D=desc&amp;keywords%5B0%5D%5Bkeys%5D=python&amp;strict_place_of_work=1&amp;place_of_work=0&amp;detail_search=1"
                                             rel="nofollow"
                                             title="Любое место работы"
-                                        >Любое место работы</a><span class="sj_block m_l_1 h_color_gray">3 646</span>
+                                        >Любое место работы</a><span class="sj_block m_l_1 h_color_gray">3 643</span>
                                     </div>
 
                                     <div class="sj_block m_t_1 h_white_space_nowrap">
@@ -7328,7 +7328,7 @@ GRE</div>
                                             href="https://www.superjob.ru/resume/search_resume.html?sbmit=1&amp;show_refused=0&amp;t%5B0%5D=4&amp;order_by%5Brank%5D=desc&amp;keywords%5B0%5D%5Bkeys%5D=python&amp;strict_place_of_work=1&amp;place_of_work=1&amp;detail_search=1"
                                             rel="nofollow"
                                             title="На территории работодателя"
-                                        >На территории работодателя</a><span class="sj_block m_l_1 h_color_gray">1 074</span>
+                                        >На территории работодателя</a><span class="sj_block m_l_1 h_color_gray">1 076</span>
                                     </div>
 
                                     <div class="sj_block m_t_1 h_white_space_nowrap">
@@ -7337,7 +7337,7 @@ GRE</div>
                                             href="https://www.superjob.ru/resume/search_resume.html?sbmit=1&amp;show_refused=0&amp;t%5B0%5D=4&amp;order_by%5Brank%5D=desc&amp;keywords%5B0%5D%5Bkeys%5D=python&amp;strict_place_of_work=1&amp;place_of_work=2&amp;detail_search=1"
                                             rel="nofollow"
                                             title="На дому"
-                                        >На дому</a><span class="sj_block m_l_1 h_color_gray">89</span>
+                                        >На дому</a><span class="sj_block m_l_1 h_color_gray">88</span>
                                     </div>
 
                                     <div class="sj_block m_t_1 h_white_space_nowrap">
@@ -7367,7 +7367,7 @@ GRE</div>
                                             href="https://www.superjob.ru/resume/search_resume.html?sbmit=1&amp;show_refused=0&amp;t%5B0%5D=4&amp;order_by%5Brank%5D=desc&amp;keywords%5B0%5D%5Bkeys%5D=python&amp;drive0=1&amp;DRL%5B0%5D=B&amp;detail_search=1"
                                             rel="nofollow"
                                             title="Категории B"
-                                        >Категории B</a><span class="sj_block m_l_1 h_color_gray">1 866</span>
+                                        >Категории B</a><span class="sj_block m_l_1 h_color_gray">1 864</span>
                                     </div>
 
                                     <div class="sj_block m_t_1 h_white_space_nowrap">
@@ -7376,7 +7376,7 @@ GRE</div>
                                             href="https://www.superjob.ru/resume/search_resume.html?sbmit=1&amp;show_refused=0&amp;t%5B0%5D=4&amp;order_by%5Brank%5D=desc&amp;keywords%5B0%5D%5Bkeys%5D=python&amp;drive0=1&amp;DRL%5B0%5D=C&amp;detail_search=1"
                                             rel="nofollow"
                                             title="Категории C"
-                                        >Категории C</a><span class="sj_block m_l_1 h_color_gray">191</span>
+                                        >Категории C</a><span class="sj_block m_l_1 h_color_gray">189</span>
                                     </div>
 
                                     <div class="sj_block m_t_1 h_white_space_nowrap">
@@ -7406,7 +7406,7 @@ GRE</div>
                                             href="https://www.superjob.ru/resume/search_resume.html?sbmit=1&amp;show_refused=0&amp;t%5B0%5D=4&amp;order_by%5Brank%5D=desc&amp;keywords%5B0%5D%5Bkeys%5D=python&amp;languages%5B0%5D%5Blanguage_id%5D=1&amp;languages%5B0%5D%5Blanguage_level%5D=3&amp;detail_search=1"
                                             rel="nofollow"
                                             title="Английский"
-                                        >Английский</a><span class="sj_block m_l_1 h_color_gray">3 966</span>
+                                        >Английский</a><span class="sj_block m_l_1 h_color_gray">3 964</span>
                                     </div>
 
                                     <div class="sj_block m_t_1 h_white_space_nowrap">
@@ -7424,7 +7424,7 @@ GRE</div>
                                             href="https://www.superjob.ru/resume/search_resume.html?sbmit=1&amp;show_refused=0&amp;t%5B0%5D=4&amp;order_by%5Brank%5D=desc&amp;keywords%5B0%5D%5Bkeys%5D=python&amp;languages%5B0%5D%5Blanguage_id%5D=3&amp;languages%5B0%5D%5Blanguage_level%5D=3&amp;detail_search=1"
                                             rel="nofollow"
                                             title="Французский"
-                                        >Французский</a><span class="sj_block m_l_1 h_color_gray">290</span>
+                                        >Французский</a><span class="sj_block m_l_1 h_color_gray">288</span>
                                     </div>
 
                                     <div class="sj_block m_t_1 h_white_space_nowrap">
@@ -7460,7 +7460,7 @@ GRE</div>
                                             href="https://www.superjob.ru/resume/search_resume.html?sbmit=1&amp;show_refused=0&amp;t%5B0%5D=4&amp;order_by%5Brank%5D=desc&amp;keywords%5B0%5D%5Bkeys%5D=python&amp;languages%5B0%5D%5Blanguage_id%5D=5&amp;languages%5B0%5D%5Blanguage_level%5D=3&amp;detail_search=1"
                                             rel="nofollow"
                                             title="Итальянский"
-                                        >Итальянский</a><span class="sj_block m_l_1 h_color_gray">37</span>
+                                        >Итальянский</a><span class="sj_block m_l_1 h_color_gray">36</span>
                                     </div>
 
                                     <div class="sj_block m_t_1 h_white_space_nowrap">
@@ -10513,7 +10513,7 @@ GRE</div>
     <meta name="verify-admitad" content="6fa953a8f9"/>
     <meta name="viewport" content="width=1008"/>
     <meta name="format-detection" content="telephone=no">
-	<meta http-equiv="Expires" content="Thu, 13 Jul 2017 18:03:53 GMT">
+	<meta http-equiv="Expires" content="Fri, 14 Jul 2017 10:15:16 GMT">
 	<meta http-equiv="Content-Type" content="text/html; charset=utf-8">
 	<meta http-equiv="Cache-Control" content="no-cache">
 	<meta http-equiv="Pragma" content="no-cache">
@@ -10538,7 +10538,7 @@ GRE</div>
     <script type="text/javascript">
 window.RavenConfig = {
     url: 'https://1a552931599744f984cdcfc95605787d@sentry.superjob.ru/16',
-    release: '5a0089fb84eaecd73c37ff2557e28b6414d0eb4a',
+    release: '9e7d7c47972cbe14707853bdaf8f7aefa921e3b2',
     user: {
         type: 'anon_user',
         id: ''
@@ -10563,7 +10563,7 @@ window.RavenConfig = {
 				IMG_PATH: 'https://img.superjob.ru',
 				PUBLIC_CONTENT_PATH: 'https://public.superjob.ru',
 				ST_PATH: 'https://st.superjob.ru',
-                RELEASE_HASH: '5a0089fb84eaecd73c37ff2557e28b6414d0eb4a',
+                RELEASE_HASH: '9e7d7c47972cbe14707853bdaf8f7aefa921e3b2',
 			};
 
 			if (typeof angular != "undefined") {
@@ -10656,7 +10656,7 @@ window.RavenConfig = {
         </script>
 <script type="text/javascript" src="https://www.superjob.ru/cdn/min/file/sj/js/timing.js?hash=519290929"></script>
 <script type="text/javascript">var cookieDomain = 'superjob.ru';</script>
-<script type="text/javascript">var globalDate = new Date(2017,6,13,21,3);</script>
+<script type="text/javascript">var globalDate = new Date(2017,6,14,13,15);</script>
 <script type="text/javascript" src="https://www.superjob.ru/cdn/min/group/core/core.js?hash=1410528983"></script>
 <script type="text/javascript" src="https://www.superjob.ru/cdn/min/group/core/core_plugins.js?hash=780475609"></script>
 <script type="text/javascript" src="https://www.superjob.ru/cdn/min/file/sj/js/vendor/angular/angular-ui-router.min.js?hash=1218443862"></script>
@@ -10664,38 +10664,38 @@ window.RavenConfig = {
 <script type="text/javascript" src="https://www.superjob.ru/cdn/min/file/sj/js/angular/modules/analytics//module.js?hash=792225329"></script>
 <script type="text/javascript" src="https://www.superjob.ru/cdn/min/file/sj/js/angular/modules/analytics/services/gtm.js?hash=3188054023"></script>
 <script type="text/javascript" src="https://www.superjob.ru/cdn/min/file/sj/js/angular/modules/utils//module.js?hash=1905043911"></script>
-<script type="text/javascript" src="https://www.superjob.ru/cdn/min/file/sj/js/angular/modules/utils/services/sjImgUrl.js?hash=3789283847"></script>
-<script type="text/javascript" src="https://www.superjob.ru/cdn/min/file/sj/js/angular/modules/utils/services/sjTemplateUrl.js?hash=536074965"></script>
-<script type="text/javascript" src="https://www.superjob.ru/cdn/min/file/sj/js/angular/modules/utils/services/sjGlobalConfig.js?hash=2074097730"></script>
 <script type="text/javascript" src="https://www.superjob.ru/cdn/min/file/sj/js/angular/modules/utils/config/sjHrefSanitizationConfig.js?hash=1234942432"></script>
 <script type="text/javascript" src="https://www.superjob.ru/cdn/min/file/sj/js/angular/modules/utils/config/sjHttpConfig.js?hash=1340646005"></script>
 <script type="text/javascript" src="https://www.superjob.ru/cdn/min/file/sj/js/angular/modules/utils/config/sjUtilsConfig.js?hash=4198823572"></script>
+<script type="text/javascript" src="https://www.superjob.ru/cdn/min/file/sj/js/angular/modules/utils/services/sjTemplateUrl.js?hash=536074965"></script>
+<script type="text/javascript" src="https://www.superjob.ru/cdn/min/file/sj/js/angular/modules/utils/services/sjImgUrl.js?hash=3789283847"></script>
+<script type="text/javascript" src="https://www.superjob.ru/cdn/min/file/sj/js/angular/modules/utils/services/sjGlobalConfig.js?hash=2074097730"></script>
 <script type="text/javascript" src="https://www.superjob.ru/cdn/min/group/sj-tools/plugins.js?hash=2499828756"></script>
 <script type="text/javascript" src="https://www.superjob.ru/cdn/min/file/sj/js/sentry/3.8.1/angular-raven.min.js?hash=1893689497"></script>
 <script type="text/javascript" src="https://www.superjob.ru/cdn/min/file/sj/js/sentry/3.8.1/install-angular-plugin.js?hash=2314905003"></script>
 <script type="text/javascript" src="https://www.superjob.ru/cdn/min/file/sj/yii/protected/views/resumesearchsubscriptionbutton/ResumeSearchSubscriptionButtonNew.html.blitz.js?hash=1957907753"></script>
 <script type="text/javascript" src="https://www.superjob.ru/cdn/min/file/sj/js/hr/modules/hr_config.js?hash=3257963135"></script>
 <script type="text/javascript" src="https://www.superjob.ru/cdn/min/file/sj/js/hr/modules/hr_common//module.js?hash=1107406220"></script>
-<script type="text/javascript" src="https://www.superjob.ru/cdn/min/file/sj/js/hr/modules/hr_common/filters/NumberFormatFilter.js?hash=932062216"></script>
-<script type="text/javascript" src="https://www.superjob.ru/cdn/min/file/sj/js/hr/modules/hr_common/directives/ButtonLoader.js?hash=1212927350"></script>
-<script type="text/javascript" src="https://www.superjob.ru/cdn/min/file/sj/js/hr/modules/hr_common/directives/CallMeBlock.js?hash=571693585"></script>
-<script type="text/javascript" src="https://www.superjob.ru/cdn/min/file/sj/js/hr/modules/hr_common/directives/DeferClick.js?hash=1580117684"></script>
-<script type="text/javascript" src="https://www.superjob.ru/cdn/min/file/sj/js/hr/modules/hr_common/directives/SetFocusWhen.js?hash=3064665901"></script>
-<script type="text/javascript" src="https://www.superjob.ru/cdn/min/file/sj/js/hr/modules/hr_common/services/HrMetaStorage.js?hash=1545590411"></script>
-<script type="text/javascript" src="https://www.superjob.ru/cdn/min/file/sj/js/hr/modules/hr_common/services/HrRegistry.js?hash=1719925708"></script>
-<script type="text/javascript" src="https://www.superjob.ru/cdn/min/file/sj/js/hr/modules/hr_common/services/GeoType.js?hash=533193389"></script>
 <script type="text/javascript" src="https://www.superjob.ru/cdn/min/file/sj/js/hr/modules/hr_common/services/FeedbackHelper.js?hash=1542714417"></script>
+<script type="text/javascript" src="https://www.superjob.ru/cdn/min/file/sj/js/hr/modules/hr_common/services/HrRegistry.js?hash=1719925708"></script>
+<script type="text/javascript" src="https://www.superjob.ru/cdn/min/file/sj/js/hr/modules/hr_common/services/HrMetaStorage.js?hash=1545590411"></script>
+<script type="text/javascript" src="https://www.superjob.ru/cdn/min/file/sj/js/hr/modules/hr_common/services/GeoType.js?hash=533193389"></script>
 <script type="text/javascript" src="https://www.superjob.ru/cdn/min/file/sj/js/hr/modules/hr_common/services/GeoHelper.js?hash=833703752"></script>
+<script type="text/javascript" src="https://www.superjob.ru/cdn/min/file/sj/js/hr/modules/hr_common/directives/CallMeBlock.js?hash=571693585"></script>
+<script type="text/javascript" src="https://www.superjob.ru/cdn/min/file/sj/js/hr/modules/hr_common/directives/SetFocusWhen.js?hash=3064665901"></script>
+<script type="text/javascript" src="https://www.superjob.ru/cdn/min/file/sj/js/hr/modules/hr_common/directives/DeferClick.js?hash=1580117684"></script>
+<script type="text/javascript" src="https://www.superjob.ru/cdn/min/file/sj/js/hr/modules/hr_common/directives/ButtonLoader.js?hash=1212927350"></script>
+<script type="text/javascript" src="https://www.superjob.ru/cdn/min/file/sj/js/hr/modules/hr_common/filters/NumberFormatFilter.js?hash=932062216"></script>
 <script type="text/javascript" src="https://www.superjob.ru/cdn/min/file/sj/js/hr/modules/hr_helper//module.js?hash=318713225"></script>
-<script type="text/javascript" src="https://www.superjob.ru/cdn/min/file/sj/js/hr/modules/hr_helper/services/StrHelper.js?hash=3110383679"></script>
 <script type="text/javascript" src="https://www.superjob.ru/cdn/min/file/sj/js/hr/modules/hr_helper/services/PhoneHelper.js?hash=365328866"></script>
+<script type="text/javascript" src="https://www.superjob.ru/cdn/min/file/sj/js/hr/modules/hr_helper/services/StrHelper.js?hash=3110383679"></script>
 <script type="text/javascript" src="https://www.superjob.ru/cdn/min/file/sj/js/hr/modules/flash_msg.js?hash=3128393204"></script>
 <script type="text/javascript" src="https://www.superjob.ru/cdn/min/group/angular_hr_client/core.js?hash=2336875237"></script>
 <script type="text/javascript" src="https://www.superjob.ru/cdn/min/group/angular_hr_client/core_plugins.js?hash=196019848"></script>
 <script type="text/javascript" src="https://www.superjob.ru/cdn/min/file/sj/yii/protected/views/servicepaymentdialog/ServicePaymentDialog.html.blitz.js?hash=106508380"></script>
 <script type="text/javascript" src="https://www.superjob.ru/cdn/min/file/sj/js/vendor/jquery.lightbox.js?hash=2278059727"></script>
 <script type="text/javascript" src="https://www.superjob.ru/cdn/min/file/sj/js/resume_contacts_toggle.js?hash=3536977416"></script>
-<script type="text/javascript" src="https://www.superjob.ru/cdn/min/file/sj/js/angular/directives/templates/templates.js?hash=1484168527"></script>
+<script type="text/javascript" src="https://www.superjob.ru/cdn/min/file/sj/js/angular/directives/templates/templates.js?hash=65859477"></script>
 <script type="text/javascript" src="https://www.superjob.ru/cdn/min/file/sj/js/angular/directives/resume-search-list-element-toolbar/resume-search-element-item-toolbar-directive.js?hash=467678829"></script>
 <script type="text/javascript" src="https://www.superjob.ru/cdn/min/file/sj/js/sj-app/utils/more-cities.js?hash=2761209446"></script>
 <script type="text/javascript" src="https://www.superjob.ru/cdn/min/file/sj/js/resume/resume-list-element-service.js?hash=3598271019"></script>
@@ -10730,12 +10730,12 @@ window.RavenConfig = {
 <script type="text/javascript" src="https://www.superjob.ru/cdn/min/file/sj/yii/protected/views/popupmetromap/PopupMetromap.html.blitz.js?hash=1402099062"></script>
 <script type="text/javascript" src="https://www.superjob.ru/cdn/min/file/sj/js/education_suggest.js?hash=3135506989"></script>
 <script type="text/javascript" src="https://www.superjob.ru/cdn/min/file/sj/js/angular/modules/sj_api/module.js?hash=112953459"></script>
-<script type="text/javascript" src="https://www.superjob.ru/cdn/min/file/sj/js/angular/modules/sj_api/config/api.js?hash=3117987141"></script>
-<script type="text/javascript" src="https://www.superjob.ru/cdn/min/file/sj/js/angular/modules/sj_api/services/cache.js?hash=4275468360"></script>
 <script type="text/javascript" src="https://www.superjob.ru/cdn/min/file/sj/js/angular/modules/sj_api/services/professionSuggest.js?hash=1953863080"></script>
 <script type="text/javascript" src="https://www.superjob.ru/cdn/min/file/sj/js/angular/modules/sj_api/services/branch.js?hash=1103595113"></script>
-<script type="text/javascript" src="https://www.superjob.ru/cdn/min/file/sj/js/angular/modules/sj_api/services/api.js?hash=2860776364"></script>
 <script type="text/javascript" src="https://www.superjob.ru/cdn/min/file/sj/js/angular/modules/sj_api/services/town.js?hash=2871232252"></script>
+<script type="text/javascript" src="https://www.superjob.ru/cdn/min/file/sj/js/angular/modules/sj_api/services/api.js?hash=2860776364"></script>
+<script type="text/javascript" src="https://www.superjob.ru/cdn/min/file/sj/js/angular/modules/sj_api/services/cache.js?hash=4275468360"></script>
+<script type="text/javascript" src="https://www.superjob.ru/cdn/min/file/sj/js/angular/modules/sj_api/config/api.js?hash=3117987141"></script>
 <script type="text/javascript" src="https://www.superjob.ru/cdn/min/file/sj/js/angular/modules/sj_branch//module.js?hash=1693021392"></script>
 <script type="text/javascript" src="https://www.superjob.ru/cdn/min/file/sj/js/angular/modules/sj_branch/directives/sjBranchDirectives.js?hash=2875909037"></script>
 <script type="text/javascript" src="https://www.superjob.ru/cdn/min/file/sj/js/angular/modules/sj_branch/run/sjBranchRun.js?hash=1753952305"></script>
@@ -10854,7 +10854,7 @@ j=d.createElement(s),dl=l!='dataLayer'?'&l='+l:'';j.async=true;j.src=
 
 
 <script type="text/javascript">
-dataLayer.push({"event":"init","YANDEX_METRIKA_ID":1605911,"GA-CODE":"UA-964811-1","additionalYamID":31419523,"hrUser":0,"regUser":0,"sjFeatures":{"fetch_profession_synonym":"__skip__"},"sjSearchId":null,"resourceType":"desktop_version","idCriteo":"0"});
+dataLayer.push({"event":"init","YANDEX_METRIKA_ID":1605911,"GA-CODE":"UA-964811-1","additionalYamID":31419523,"hrUser":0,"regUser":0,"sjFeatures":{"fetch_profession_synonym":"__skip__"},"sjSearchId":null,"resourceType":"desktop_version","idCriteo":"0"});
 </script>
 
 <div style="width: 1px; height: 1px; overflow: hidden;position: absolute;"></div>
@@ -11124,9 +11124,9 @@ dataLayer.push({"event":"init","YANDEX_METRIKA_ID":1605911,"GA-CODE":"UA-964811-
                 <div class="sj_justify">
                     <div class="">
                         <div>
-                                <span>Найдено 1 936 резюме</span>
+                                <span>Найдено 1 934 резюме</span>
                                     <br>После <a target="_blank" href="https://www.superjob.ru/registration.html">регистрации</a>
-                                    будет доступно 4 816 резюме
+                                    будет доступно 4 814 резюме
                         </div>
                     </div>
                     <div class="">
@@ -16300,7 +16300,7 @@ dataLayer.push({"event":"init","YANDEX_METRIKA_ID":1605911,"GA-CODE":"UA-964811-
         <!-- История -->
         <div class="sj_block m_b_2 ResumeListElementNew_history">
                 <div class="h_color_gray">
-                    <span class="sj_text m_small">Обновлено в 20:55</span>
+                    <span class="sj_text m_small">Обновлено в 12:31</span>
                 </div>
             </div>
 
@@ -16515,13 +16515,13 @@ dataLayer.push({"event":"init","YANDEX_METRIKA_ID":1605911,"GA-CODE":"UA-964811-
      ng-controller="ResumeListElementNewCtrl as vm"
 >
     <div class="sj_block m_t_1 m_b_1 sj_alert m_stretch m_closable"
-         ng-show="activeAlert[39430316]"
+         ng-show="activeAlert[8936486]"
          ng-cloak
          ng-class="{
-            m_green: activeAlert[39430316].type === 'success',
-            m_red: activeAlert[39430316].type === 'error'
+            m_green: activeAlert[8936486].type === 'success',
+            m_red: activeAlert[8936486].type === 'error'
          }">
-        <div ng-bind-html="activeAlert[39430316].message"></div>
+        <div ng-bind-html="activeAlert[8936486].message"></div>
         <span class="sj_alert_close" ng-click="closeActiveAlert($event)"></span>
     </div>
 
@@ -16531,13 +16531,13 @@ dataLayer.push({"event":"init","YANDEX_METRIKA_ID":1605911,"GA-CODE":"UA-964811-
         <!-- История -->
         <div class="sj_block m_b_2 ResumeListElementNew_history">
                 <div class="h_color_gray">
-                    <span class="sj_text m_small">Обновлено в 19:27</span>
+                    <span class="sj_text m_small">Обновлено в 12:14</span>
                 </div>
             </div>
 
         <!-- Избранное -->
         <div class="sj_text m_small">
-                <a title="В избранные" class="h_position_relative h_border_none h_white_space_nowrap" href="https://www.superjob.ru/user/beforefullregistration/39430316/?from=resume_list">
+                <a title="В избранные" class="h_position_relative h_border_none h_white_space_nowrap" href="https://www.superjob.ru/user/beforefullregistration/8936486/?from=resume_list">
                     <span class="sj_icon m_star_o_blue_17x16 ResumeListElementNew_favorite_ico"></span>В избранные
                 </a>
         </div>
@@ -16546,17 +16546,17 @@ dataLayer.push({"event":"init","YANDEX_METRIKA_ID":1605911,"GA-CODE":"UA-964811-
         <div class="ResumeListElementNew_text">
             <div class="sj_block m_b_1">
                 <a class="sj_h3 ResumeListElementNew_profession"
-                   href="https://www.superjob.ru/resume/mladshij-programmist-39430316.html?keys%5B0%5D=python&skwc%5B0%5D=and&srws%5B0%5D=10"
-                   title="Младший программист, junior разработчик"
-                   ng-click="resumeViewed_39430316=1;"
+                   href="https://www.superjob.ru/resume/inzhener-8936486.html?keys%5B0%5D=python&skwc%5B0%5D=and&srws%5B0%5D=10"
+                   title="Инженер"
+                   ng-click="resumeViewed_8936486=1;"
                    target="_blank"
-                >Младший программист, junior разработчик</a>
+                >Инженер</a>
             </div>
             <div class="sj_block m_b_1">
 
                 <div class="ResumeListElementNew_font_size_0">
                     <span class="sj_text ResumeListElementNew_bold">По договоренности</span>
-                    <span class="sj_text">, 19 лет</span>
+                    <span class="sj_text">, 28 лет</span>
                     <span class="sj_text">, Москва</span>
                     
 
@@ -16566,11 +16566,41 @@ dataLayer.push({"event":"init","YANDEX_METRIKA_ID":1605911,"GA-CODE":"UA-964811-
                     </span>
                     <!--/языки-->
 
-                    
+                    <span class="sj_text">, стаж 2 года и 4 месяца</span>
                 </div>
 
+                    <div>
+                            <a href="javascript:void(0)"
+                               class="h_color_black h_border_dotted"
+                               ng-click="workDescriptionVisible_8936486 = !workDescriptionVisible_8936486; vm.viewResume(8936486, (resumeViewed_8936486 || 0)); resumeViewed_8936486=1; showAllProfession8936486=1; registerActionInAnalytics(8936486, workDescriptionVisible_8936486);">Ведущий инженер</a>,
+                         ФГУП ЦНИИХМ, 
+                        1 год и 1 месяц
+                        (по август 2013)
+                    </div>
             </div>
+            <div class="sj_block m_b_2 ResumeListElementNew_work_description"
+                 ng-class="{'m_visible': workDescriptionVisible_8936486 }"
+                 sj-shorten-text
+                 sj-shorten-text-max-lines="10"
+                 sj-shorten-text-line-len="64"
+                 sj-shorten-text-title="longExperienceDescriptionTitle">- конструирование и расчет изделий;
+- разработка конструкторской документации на изделия;
+- составление программ и методик испытаний;
+- анализ экспериментальных данных;
+- составление и согласование технической документации для соисполнителей на проведение НИР.</div>
 
+                <div class="sj_block m_b_2">
+                    <div class="ResumeListElementNew_previous_professions_wrap">
+                        <div class="ResumeListElementNew_previous_professions h_text_overflow_ellipsis" ng-class="{
+                            'ResumeListElementNew_previous_professions--extend': showAllProfession8936486
+                        }">
+                            <span>Техник </span><a href="javascript:void(0)" ng-click="showAllProfession8936486=0;" class="h_border_dotted h_color_black" ng-show="showAllProfession8936486 && vm.isEnoughLettersInProfessionString('&#1058;&#1077;&#1093;&#1085;&#1080;&#1082;')" ng-cloak>скрыть</a>
+                            <div class="ResumeListElementNew_previous_professions_button_more" ng-click="showAllProfession8936486=1;">
+                                <a href="javascript:void(0)" class="h_border_dotted h_color_black" ng-show="!showAllProfession8936486 && vm.isEnoughLettersInProfessionString('&#1058;&#1077;&#1093;&#1085;&#1080;&#1082;')" ng-cloak>еще {%vm.professionHideCount('&#1058;&#1077;&#1093;&#1085;&#1080;&#1082;')%}</a>
+                            </div>
+                        </div>
+                    </div>
+                </div>
 
             <div>
             </div>
@@ -16582,7 +16612,7 @@ dataLayer.push({"event":"init","YANDEX_METRIKA_ID":1605911,"GA-CODE":"UA-964811-
         <div class="sj_block m_b_1 sj_panel ResumeOfferBuyContacts">
             <a
                 class="sj_btn m_blue"
-                href="https://www.superjob.ru/hr/registration/with-resume/39430316/"
+                href="https://www.superjob.ru/hr/registration/with-resume/8936486/"
                 target="_blank"
                 ng-click="buy2073Test()"
             >
@@ -16597,9 +16627,9 @@ dataLayer.push({"event":"init","YANDEX_METRIKA_ID":1605911,"GA-CODE":"UA-964811-
 
 <div class="sj_block m_t_3"
      ng-cloak
-     resume-id="39430316"
-     ng-show="resumes[39430316].isResumeIncoming || resumes[39430316].contacts.justBought"
-     actions="actions[39430316]"
+     resume-id="8936486"
+     ng-show="resumes[8936486].isResumeIncoming || resumes[8936486].contacts.justBought"
+     actions="actions[8936486]"
      allowed-actions=""
      resume-search-list-element-toolbar></div>
 
@@ -16684,13 +16714,13 @@ dataLayer.push({"event":"init","YANDEX_METRIKA_ID":1605911,"GA-CODE":"UA-964811-
             },
             saveWord: {
                 action: 'save_rtf',
-                url: 'https://www.superjob.ru/resume/download/cv-39430316.html',
+                url: 'https://www.superjob.ru/resume/download/cv-8936486.html',
                 title: 'doc',
                 callback: 'initAction'
             },
             addComplain: {
                 action: 'add_complain',
-                url: 'https://www.superjob.ru/resume/p/complain/?id=39430316',
+                url: 'https://www.superjob.ru/resume/p/complain/?id=8936486',
                 title: 'Пожаловаться на резюме',
                 callback: 'sjLoadModal'
             }
@@ -16699,8 +16729,8 @@ dataLayer.push({"event":"init","YANDEX_METRIKA_ID":1605911,"GA-CODE":"UA-964811-
         angular.module('angie').value('ResumeAllActions', ResumeAllActions);
 
         window.Resumes = (window.Resumes) ? window.Resumes : {};
-        window.Resumes[parseInt('39430316')] = (window.Resumes[parseInt('39430316')]) ? window.Resumes[parseInt('39430316')] : {};
-        window.Resumes[parseInt('39430316')].allActions = ResumeAllActions;
+        window.Resumes[parseInt('8936486')] = (window.Resumes[parseInt('8936486')]) ? window.Resumes[parseInt('8936486')] : {};
+        window.Resumes[parseInt('8936486')].allActions = ResumeAllActions;
     })();
 </script>
         </div>
@@ -16918,7 +16948,7 @@ dataLayer.push({"event":"init","YANDEX_METRIKA_ID":1605911,"GA-CODE":"UA-964811-
                                             href="https://www.superjob.ru/resume/search_resume.html?sbmit=1&amp;show_refused=0&amp;t%5B0%5D=4&amp;order_by%5Brank%5D=desc&amp;keywords%5B0%5D%5Bkeys%5D=python&amp;period=1&amp;detail_search=1"
                                             rel="nofollow"
                                             title="24 часа"
-                                        >24 часа</a><span class="sj_block m_l_1 h_color_gray">62</span>
+                                        >24 часа</a><span class="sj_block m_l_1 h_color_gray">61</span>
                                     </div>
 
                                     <div class="sj_block m_t_1 h_white_space_nowrap">
@@ -16927,7 +16957,7 @@ dataLayer.push({"event":"init","YANDEX_METRIKA_ID":1605911,"GA-CODE":"UA-964811-
                                             href="https://www.superjob.ru/resume/search_resume.html?sbmit=1&amp;show_refused=0&amp;t%5B0%5D=4&amp;order_by%5Brank%5D=desc&amp;keywords%5B0%5D%5Bkeys%5D=python&amp;period=3&amp;detail_search=1"
                                             rel="nofollow"
                                             title="3 дня"
-                                        >3 дня</a><span class="sj_block m_l_1 h_color_gray">125</span>
+                                        >3 дня</a><span class="sj_block m_l_1 h_color_gray">124</span>
                                     </div>
 
                                     <div class="sj_block m_t_1 h_white_space_nowrap">
@@ -16936,7 +16966,7 @@ dataLayer.push({"event":"init","YANDEX_METRIKA_ID":1605911,"GA-CODE":"UA-964811-
                                             href="https://www.superjob.ru/resume/search_resume.html?sbmit=1&amp;show_refused=0&amp;t%5B0%5D=4&amp;order_by%5Brank%5D=desc&amp;keywords%5B0%5D%5Bkeys%5D=python&amp;period=7&amp;detail_search=1"
                                             rel="nofollow"
                                             title="Неделю"
-                                        >Неделю</a><span class="sj_block m_l_1 h_color_gray">173</span>
+                                        >Неделю</a><span class="sj_block m_l_1 h_color_gray">174</span>
                                     </div>
 
                                     <div class="sj_block m_t_1 h_white_space_nowrap">
@@ -16945,7 +16975,7 @@ dataLayer.push({"event":"init","YANDEX_METRIKA_ID":1605911,"GA-CODE":"UA-964811-
                                             href="https://www.superjob.ru/resume/search_resume.html?sbmit=1&amp;show_refused=0&amp;t%5B0%5D=4&amp;order_by%5Brank%5D=desc&amp;keywords%5B0%5D%5Bkeys%5D=python&amp;period=30&amp;detail_search=1"
                                             rel="nofollow"
                                             title="Месяц"
-                                        >Месяц</a><span class="sj_block m_l_1 h_color_gray">338</span>
+                                        >Месяц</a><span class="sj_block m_l_1 h_color_gray">337</span>
                                     </div>
                     </div>
                     <div class="sj_block m_b_1">Возраст</div>
@@ -16957,7 +16987,7 @@ dataLayer.push({"event":"init","YANDEX_METRIKA_ID":1605911,"GA-CODE":"UA-964811-
                                             href="https://www.superjob.ru/resume/search_resume.html?sbmit=1&amp;show_refused=0&amp;t%5B0%5D=4&amp;order_by%5Brank%5D=desc&amp;keywords%5B0%5D%5Bkeys%5D=python&amp;old2=20&amp;detail_search=1"
                                             rel="nofollow"
                                             title="до 20 лет"
-                                        >до 20 лет</a><span class="sj_block m_l_1 h_color_gray">145</span>
+                                        >до 20 лет</a><span class="sj_block m_l_1 h_color_gray">146</span>
                                     </div>
 
                                     <div class="sj_block m_t_1 h_white_space_nowrap">
@@ -16966,7 +16996,7 @@ dataLayer.push({"event":"init","YANDEX_METRIKA_ID":1605911,"GA-CODE":"UA-964811-
                                             href="https://www.superjob.ru/resume/search_resume.html?sbmit=1&amp;show_refused=0&amp;t%5B0%5D=4&amp;order_by%5Brank%5D=desc&amp;keywords%5B0%5D%5Bkeys%5D=python&amp;old1=20&amp;old2=25&amp;detail_search=1"
                                             rel="nofollow"
                                             title="от 20 до 25 лет"
-                                        >от 20 до 25 лет</a><span class="sj_block m_l_1 h_color_gray">1 145</span>
+                                        >от 20 до 25 лет</a><span class="sj_block m_l_1 h_color_gray">1 144</span>
                                     </div>
 
                                     <div class="sj_block m_t_1 h_white_space_nowrap">
@@ -16975,7 +17005,7 @@ dataLayer.push({"event":"init","YANDEX_METRIKA_ID":1605911,"GA-CODE":"UA-964811-
                                             href="https://www.superjob.ru/resume/search_resume.html?sbmit=1&amp;show_refused=0&amp;t%5B0%5D=4&amp;order_by%5Brank%5D=desc&amp;keywords%5B0%5D%5Bkeys%5D=python&amp;old1=25&amp;old2=30&amp;detail_search=1"
                                             rel="nofollow"
                                             title="от 25 до 30 лет"
-                                        >от 25 до 30 лет</a><span class="sj_block m_l_1 h_color_gray">1 777</span>
+                                        >от 25 до 30 лет</a><span class="sj_block m_l_1 h_color_gray">1 776</span>
                                     </div>
 
                                     <div class="sj_block m_t_1 h_white_space_nowrap">
@@ -16984,7 +17014,7 @@ dataLayer.push({"event":"init","YANDEX_METRIKA_ID":1605911,"GA-CODE":"UA-964811-
                                             href="https://www.superjob.ru/resume/search_resume.html?sbmit=1&amp;show_refused=0&amp;t%5B0%5D=4&amp;order_by%5Brank%5D=desc&amp;keywords%5B0%5D%5Bkeys%5D=python&amp;old1=30&amp;old2=35&amp;detail_search=1"
                                             rel="nofollow"
                                             title="от 30 до 35 лет"
-                                        >от 30 до 35 лет</a><span class="sj_block m_l_1 h_color_gray">1 358</span>
+                                        >от 30 до 35 лет</a><span class="sj_block m_l_1 h_color_gray">1 357</span>
                                     </div>
 
                                     <div class="sj_block m_t_1 h_white_space_nowrap">
@@ -17002,7 +17032,7 @@ dataLayer.push({"event":"init","YANDEX_METRIKA_ID":1605911,"GA-CODE":"UA-964811-
                                             href="https://www.superjob.ru/resume/search_resume.html?sbmit=1&amp;show_refused=0&amp;t%5B0%5D=4&amp;order_by%5Brank%5D=desc&amp;keywords%5B0%5D%5Bkeys%5D=python&amp;old1=40&amp;detail_search=1"
                                             rel="nofollow"
                                             title="от 40 лет"
-                                        >от 40 лет</a><span class="sj_block m_l_1 h_color_gray">596</span>
+                                        >от 40 лет</a><span class="sj_block m_l_1 h_color_gray">597</span>
                                     </div>
                     </div>
                     <div class="sj_block m_b_1">Уровень дохода</div>
@@ -17014,7 +17044,7 @@ dataLayer.push({"event":"init","YANDEX_METRIKA_ID":1605911,"GA-CODE":"UA-964811-
                                             href="https://www.superjob.ru/resume/search_resume.html?sbmit=1&amp;show_refused=0&amp;t%5B0%5D=4&amp;order_by%5Brank%5D=desc&amp;keywords%5B0%5D%5Bkeys%5D=python&amp;payment_agreement=1&amp;detail_search=1"
                                             rel="nofollow"
                                             title="По договоренности"
-                                        >По договоренности</a><span class="sj_block m_l_1 h_color_gray">2 450</span>
+                                        >По договоренности</a><span class="sj_block m_l_1 h_color_gray">2 448</span>
                                     </div>
 
                                     <div class="sj_block m_t_1 h_white_space_nowrap">
@@ -17050,7 +17080,7 @@ dataLayer.push({"event":"init","YANDEX_METRIKA_ID":1605911,"GA-CODE":"UA-964811-
                                             href="https://www.superjob.ru/resume/search_resume.html?sbmit=1&amp;show_refused=0&amp;t%5B0%5D=4&amp;order_by%5Brank%5D=desc&amp;keywords%5B0%5D%5Bkeys%5D=python&amp;paymentfrom=70000&amp;paymentto=90000&amp;payment_no_agreement=1&amp;detail_search=1"
                                             rel="nofollow"
                                             title="от 70 000 до 90 000 руб."
-                                        >от 70 000 до 90 000 руб.</a><span class="sj_block m_l_1 h_color_gray">524</span>
+                                        >от 70 000 до 90 000 руб.</a><span class="sj_block m_l_1 h_color_gray">526</span>
                                     </div>
 
                                     <div class="sj_block m_t_1 h_white_space_nowrap">
@@ -17059,7 +17089,7 @@ dataLayer.push({"event":"init","YANDEX_METRIKA_ID":1605911,"GA-CODE":"UA-964811-
                                             href="https://www.superjob.ru/resume/search_resume.html?sbmit=1&amp;show_refused=0&amp;t%5B0%5D=4&amp;order_by%5Brank%5D=desc&amp;keywords%5B0%5D%5Bkeys%5D=python&amp;paymentfrom=90000&amp;paymentto=110000&amp;payment_no_agreement=1&amp;detail_search=1"
                                             rel="nofollow"
                                             title="от 90 000 до 110 000 руб."
-                                        >от 90 000 до 110 000 руб.</a><span class="sj_block m_l_1 h_color_gray">345</span>
+                                        >от 90 000 до 110 000 руб.</a><span class="sj_block m_l_1 h_color_gray">343</span>
                                     </div>
 
                                     <div class="sj_block m_t_1 h_white_space_nowrap">
@@ -17361,7 +17391,7 @@ dataLayer.push({"event":"init","YANDEX_METRIKA_ID":1605911,"GA-CODE":"UA-964811-
                                             href="https://www.superjob.ru/resume/search_resume.html?sbmit=1&amp;show_refused=0&amp;t%5B0%5D=4&amp;order_by%5Brank%5D=desc&amp;keywords%5B0%5D%5Bkeys%5D=python&amp;citizenship%5B0%5D=1&amp;detail_search=1"
                                             rel="nofollow"
                                             title="Россия"
-                                        >Россия</a><span class="sj_block m_l_1 h_color_gray">1 917</span>
+                                        >Россия</a><span class="sj_block m_l_1 h_color_gray">1 916</span>
                                     </div>
 
                                     <div class="sj_block m_t_1 h_white_space_nowrap">
@@ -17480,7 +17510,7 @@ dataLayer.push({"event":"init","YANDEX_METRIKA_ID":1605911,"GA-CODE":"UA-964811-
                                             href="https://www.superjob.ru/resume/search_resume.html?sbmit=1&amp;show_refused=0&amp;t%5B0%5D=4&amp;order_by%5Brank%5D=desc&amp;keywords%5B0%5D%5Bkeys%5D=python&amp;pol=2&amp;detail_search=1"
                                             rel="nofollow"
                                             title="Мужской"
-                                        >Мужской</a><span class="sj_block m_l_1 h_color_gray">4 286</span>
+                                        >Мужской</a><span class="sj_block m_l_1 h_color_gray">4 287</span>
                                     </div>
 
                                     <div class="sj_block m_t_1 h_white_space_nowrap">
@@ -17489,7 +17519,7 @@ dataLayer.push({"event":"init","YANDEX_METRIKA_ID":1605911,"GA-CODE":"UA-964811-
                                             href="https://www.superjob.ru/resume/search_resume.html?sbmit=1&amp;show_refused=0&amp;t%5B0%5D=4&amp;order_by%5Brank%5D=desc&amp;keywords%5B0%5D%5Bkeys%5D=python&amp;pol=3&amp;detail_search=1"
                                             rel="nofollow"
                                             title="Женский"
-                                        >Женский</a><span class="sj_block m_l_1 h_color_gray">530</span>
+                                        >Женский</a><span class="sj_block m_l_1 h_color_gray">527</span>
                                     </div>
                     </div>
                     <div class="sj_block m_b_1">Тип занятости</div>
@@ -17510,7 +17540,7 @@ dataLayer.push({"event":"init","YANDEX_METRIKA_ID":1605911,"GA-CODE":"UA-964811-
                                             href="https://www.superjob.ru/resume/search_resume.html?sbmit=1&amp;show_refused=0&amp;t%5B0%5D=4&amp;order_by%5Brank%5D=desc&amp;keywords%5B0%5D%5Bkeys%5D=python&amp;strict_type_of_work=1&amp;type_of_work=6&amp;detail_search=1"
                                             rel="nofollow"
                                             title="Полный рабочий день"
-                                        >Полный рабочий день</a><span class="sj_block m_l_1 h_color_gray">1 934</span>
+                                        >Полный рабочий день</a><span class="sj_block m_l_1 h_color_gray">1 935</span>
                                     </div>
 
                                     <div class="sj_block m_t_1 h_white_space_nowrap">
@@ -17519,7 +17549,7 @@ dataLayer.push({"event":"init","YANDEX_METRIKA_ID":1605911,"GA-CODE":"UA-964811-
                                             href="https://www.superjob.ru/resume/search_resume.html?sbmit=1&amp;show_refused=0&amp;t%5B0%5D=4&amp;order_by%5Brank%5D=desc&amp;keywords%5B0%5D%5Bkeys%5D=python&amp;strict_type_of_work=1&amp;type_of_work=13&amp;detail_search=1"
                                             rel="nofollow"
                                             title="Частичная занятость"
-                                        >Частичная занятость</a><span class="sj_block m_l_1 h_color_gray">178</span>
+                                        >Частичная занятость</a><span class="sj_block m_l_1 h_color_gray">176</span>
                                     </div>
 
                                     <div class="sj_block m_t_1 h_white_space_nowrap">
@@ -17528,7 +17558,7 @@ dataLayer.push({"event":"init","YANDEX_METRIKA_ID":1605911,"GA-CODE":"UA-964811-
                                             href="https://www.superjob.ru/resume/search_resume.html?sbmit=1&amp;show_refused=0&amp;t%5B0%5D=4&amp;order_by%5Brank%5D=desc&amp;keywords%5B0%5D%5Bkeys%5D=python&amp;strict_type_of_work=1&amp;type_of_work=10&amp;detail_search=1"
                                             rel="nofollow"
                                             title="Неполный рабочий день"
-                                        >Неполный рабочий день</a><span class="sj_block m_l_1 h_color_gray">172</span>
+                                        >Неполный рабочий день</a><span class="sj_block m_l_1 h_color_gray">171</span>
                                     </div>
 
                                     <div class="sj_block m_t_1 h_white_space_nowrap">
@@ -17648,7 +17678,7 @@ dataLayer.push({"event":"init","YANDEX_METRIKA_ID":1605911,"GA-CODE":"UA-964811-
                                             href="https://www.superjob.ru/resume/search_resume.html?sbmit=1&amp;show_refused=0&amp;t%5B0%5D=4&amp;order_by%5Brank%5D=desc&amp;keywords%5B0%5D%5Bkeys%5D=python&amp;id_metro_line=9&amp;detail_search=1"
                                             rel="nofollow"
                                             title="Серпуховско-Тимирязевская"
-                                        >Серпуховско-Тимирязевская</a><span class="sj_block m_l_1 h_color_gray">369</span>
+                                        >Серпуховско-Тимирязевская</a><span class="sj_block m_l_1 h_color_gray">370</span>
                                     </div>
                             <div class="sj_block m_t_1">
                                 <a
@@ -17695,7 +17725,7 @@ dataLayer.push({"event":"init","YANDEX_METRIKA_ID":1605911,"GA-CODE":"UA-964811-
                                             href="https://www.superjob.ru/resume/search_resume.html?sbmit=1&amp;show_refused=0&amp;t%5B0%5D=4&amp;order_by%5Brank%5D=desc&amp;keywords%5B0%5D%5Bkeys%5D=python&amp;strict_education=1&amp;education=2&amp;detail_search=1"
                                             rel="nofollow"
                                             title="Высшее"
-                                        >Высшее</a><span class="sj_block m_l_1 h_color_gray">3 692</span>
+                                        >Высшее</a><span class="sj_block m_l_1 h_color_gray">3 689</span>
                                     </div>
 
                                     <div class="sj_block m_t_1 h_white_space_nowrap">
@@ -17713,7 +17743,7 @@ dataLayer.push({"event":"init","YANDEX_METRIKA_ID":1605911,"GA-CODE":"UA-964811-
                                             href="https://www.superjob.ru/resume/search_resume.html?sbmit=1&amp;show_refused=0&amp;t%5B0%5D=4&amp;order_by%5Brank%5D=desc&amp;keywords%5B0%5D%5Bkeys%5D=python&amp;strict_education=1&amp;education=4&amp;detail_search=1"
                                             rel="nofollow"
                                             title="Среднее специальное"
-                                        >Среднее специальное</a><span class="sj_block m_l_1 h_color_gray">140</span>
+                                        >Среднее специальное</a><span class="sj_block m_l_1 h_color_gray">141</span>
                                     </div>
 
                                     <div class="sj_block m_t_1 h_white_space_nowrap">
@@ -17752,7 +17782,7 @@ dataLayer.push({"event":"init","YANDEX_METRIKA_ID":1605911,"GA-CODE":"UA-964811-
                                             href="https://www.superjob.ru/resume/search_resume.html?sbmit=1&amp;show_refused=0&amp;t%5B0%5D=4&amp;order_by%5Brank%5D=desc&amp;keywords%5B0%5D%5Bkeys%5D=python&amp;strict_place_of_work=1&amp;place_of_work=0&amp;detail_search=1"
                                             rel="nofollow"
                                             title="Любое место работы"
-                                        >Любое место работы</a><span class="sj_block m_l_1 h_color_gray">3 646</span>
+                                        >Любое место работы</a><span class="sj_block m_l_1 h_color_gray">3 643</span>
                                     </div>
 
                                     <div class="sj_block m_t_1 h_white_space_nowrap">
@@ -17761,7 +17791,7 @@ dataLayer.push({"event":"init","YANDEX_METRIKA_ID":1605911,"GA-CODE":"UA-964811-
                                             href="https://www.superjob.ru/resume/search_resume.html?sbmit=1&amp;show_refused=0&amp;t%5B0%5D=4&amp;order_by%5Brank%5D=desc&amp;keywords%5B0%5D%5Bkeys%5D=python&amp;strict_place_of_work=1&amp;place_of_work=1&amp;detail_search=1"
                                             rel="nofollow"
                                             title="На территории работодателя"
-                                        >На территории работодателя</a><span class="sj_block m_l_1 h_color_gray">1 074</span>
+                                        >На территории работодателя</a><span class="sj_block m_l_1 h_color_gray">1 076</span>
                                     </div>
 
                                     <div class="sj_block m_t_1 h_white_space_nowrap">
@@ -17770,7 +17800,7 @@ dataLayer.push({"event":"init","YANDEX_METRIKA_ID":1605911,"GA-CODE":"UA-964811-
                                             href="https://www.superjob.ru/resume/search_resume.html?sbmit=1&amp;show_refused=0&amp;t%5B0%5D=4&amp;order_by%5Brank%5D=desc&amp;keywords%5B0%5D%5Bkeys%5D=python&amp;strict_place_of_work=1&amp;place_of_work=2&amp;detail_search=1"
                                             rel="nofollow"
                                             title="На дому"
-                                        >На дому</a><span class="sj_block m_l_1 h_color_gray">89</span>
+                                        >На дому</a><span class="sj_block m_l_1 h_color_gray">88</span>
                                     </div>
 
                                     <div class="sj_block m_t_1 h_white_space_nowrap">
@@ -17800,7 +17830,7 @@ dataLayer.push({"event":"init","YANDEX_METRIKA_ID":1605911,"GA-CODE":"UA-964811-
                                             href="https://www.superjob.ru/resume/search_resume.html?sbmit=1&amp;show_refused=0&amp;t%5B0%5D=4&amp;order_by%5Brank%5D=desc&amp;keywords%5B0%5D%5Bkeys%5D=python&amp;drive0=1&amp;DRL%5B0%5D=B&amp;detail_search=1"
                                             rel="nofollow"
                                             title="Категории B"
-                                        >Категории B</a><span class="sj_block m_l_1 h_color_gray">1 866</span>
+                                        >Категории B</a><span class="sj_block m_l_1 h_color_gray">1 864</span>
                                     </div>
 
                                     <div class="sj_block m_t_1 h_white_space_nowrap">
@@ -17809,7 +17839,7 @@ dataLayer.push({"event":"init","YANDEX_METRIKA_ID":1605911,"GA-CODE":"UA-964811-
                                             href="https://www.superjob.ru/resume/search_resume.html?sbmit=1&amp;show_refused=0&amp;t%5B0%5D=4&amp;order_by%5Brank%5D=desc&amp;keywords%5B0%5D%5Bkeys%5D=python&amp;drive0=1&amp;DRL%5B0%5D=C&amp;detail_search=1"
                                             rel="nofollow"
                                             title="Категории C"
-                                        >Категории C</a><span class="sj_block m_l_1 h_color_gray">191</span>
+                                        >Категории C</a><span class="sj_block m_l_1 h_color_gray">189</span>
                                     </div>
 
                                     <div class="sj_block m_t_1 h_white_space_nowrap">
@@ -17839,7 +17869,7 @@ dataLayer.push({"event":"init","YANDEX_METRIKA_ID":1605911,"GA-CODE":"UA-964811-
                                             href="https://www.superjob.ru/resume/search_resume.html?sbmit=1&amp;show_refused=0&amp;t%5B0%5D=4&amp;order_by%5Brank%5D=desc&amp;keywords%5B0%5D%5Bkeys%5D=python&amp;languages%5B0%5D%5Blanguage_id%5D=1&amp;languages%5B0%5D%5Blanguage_level%5D=3&amp;detail_search=1"
                                             rel="nofollow"
                                             title="Английский"
-                                        >Английский</a><span class="sj_block m_l_1 h_color_gray">3 966</span>
+                                        >Английский</a><span class="sj_block m_l_1 h_color_gray">3 964</span>
                                     </div>
 
                                     <div class="sj_block m_t_1 h_white_space_nowrap">
@@ -17857,7 +17887,7 @@ dataLayer.push({"event":"init","YANDEX_METRIKA_ID":1605911,"GA-CODE":"UA-964811-
                                             href="https://www.superjob.ru/resume/search_resume.html?sbmit=1&amp;show_refused=0&amp;t%5B0%5D=4&amp;order_by%5Brank%5D=desc&amp;keywords%5B0%5D%5Bkeys%5D=python&amp;languages%5B0%5D%5Blanguage_id%5D=3&amp;languages%5B0%5D%5Blanguage_level%5D=3&amp;detail_search=1"
                                             rel="nofollow"
                                             title="Французский"
-                                        >Французский</a><span class="sj_block m_l_1 h_color_gray">290</span>
+                                        >Французский</a><span class="sj_block m_l_1 h_color_gray">288</span>
                                     </div>
 
                                     <div class="sj_block m_t_1 h_white_space_nowrap">
@@ -17893,7 +17923,7 @@ dataLayer.push({"event":"init","YANDEX_METRIKA_ID":1605911,"GA-CODE":"UA-964811-
                                             href="https://www.superjob.ru/resume/search_resume.html?sbmit=1&amp;show_refused=0&amp;t%5B0%5D=4&amp;order_by%5Brank%5D=desc&amp;keywords%5B0%5D%5Bkeys%5D=python&amp;languages%5B0%5D%5Blanguage_id%5D=5&amp;languages%5B0%5D%5Blanguage_level%5D=3&amp;detail_search=1"
                                             rel="nofollow"
                                             title="Итальянский"
-                                        >Итальянский</a><span class="sj_block m_l_1 h_color_gray">37</span>
+                                        >Итальянский</a><span class="sj_block m_l_1 h_color_gray">36</span>
                                     </div>
 
                                     <div class="sj_block m_t_1 h_white_space_nowrap">
