@@ -21,7 +21,7 @@ class Resume(Base):
     has_degree = Column(Boolean)
     city = Column(String(1000))
     keywords = Column(String)
-    salary = Column(String)
+    salary = Column(Integer)
     url = Column(String(10000), unique=True)
 
     @property
