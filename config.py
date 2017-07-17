@@ -1,0 +1,48 @@
+cookies={
+        '_ga': 'GA1.2.1443249344.1498982928',                        
+            '_gid':'GA1.2.1464582966.1500041990',              
+            '_sp_id.8ab7':'f883b4534fa8231b.1498982930.22.1500128364.1500122814.52262b70-4853-4372-8e9f-5de6c9b1c1e2',            
+            '_sp_ses.8ab7': '*',                 
+            '_ws': '5958aa0f04a4fda40a0a019b19f47a314fa5ace703596a246b2532e42a87cefc8ab3c2ea236bb4ce93ea0cc21e',               
+            '_wss':'596a246b',               
+            '_ym_isad':'1',                
+            '_ym_uid': '149898292832444728',              
+            '_ym_visorc_1605911':  'w',                
+            '_ym_visorc_31419523': 'w',                
+            'bl_iv':'b1dfa029a7edfb8645f00e35e45493b70a58a2c4',          
+            'ctown':'4',
+            'enter_date': '1499502266 0',              
+            'enter_referer':'https%3A%2F%2Fwww.google.ru%2F',
+            'enter_url':'www.superjob.ru%2F',               
+            'jv_enter_ts_BRDRBHmcqd':'1499002237738',               
+            'jv_pages_count_BRDRBHmcqd':'20',              
+            'jv_utm_BRDRBHmcqd':'',                    
+            'jv_visits_count_BRDRBHmcqd':'1',                 
+            'quicksearchkey':  'python',              
+            'sjvid':'c206ab014fd4ac65',               
+            'ssl_check':'success',               
+            'ssl_check':   'success',          
+            'testcookie':'1498982926',              
+            'tmr_detect':  '1%7C1500128366232',
+        }
+
+RU_MONTH_VALUES = {
+        'января': 1,
+        'февраля': 2,
+        'марта': 3,
+        'апреля': 4,
+        'мая': 5,
+        'июня': 6,
+        'июля': 7,
+        'августа': 8,
+        'сентября': 9,
+        'октября': 10,
+        'ноября': 10,
+        'декабря': 12,
+    }
+
+currencies = {
+      'руб': 1,
+      'USD': 60,
+      'EUR': 68,
+}
