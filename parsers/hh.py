@@ -20,8 +20,8 @@ def get_html(url, params=None):
     result = requests.Response
     result.status_code = None
 
-    try:
-        result = requests.get(url=url, headers=user_agent, params=params)
+    try:#      result = requests.get(url=url, headers=user_agent, params=params)
+        result = null
     except requests.RequestException as error:
         print(error)
 
