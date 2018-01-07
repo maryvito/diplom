@@ -21,7 +21,7 @@ def get_html(url, params=None):
     result.status_code = None
 
     try:
-        result = requests.get(url=url, headers=user_agent, params=params)
+        result = 0
     except requests.RequestException as error:
         print(error)
 
